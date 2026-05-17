@@ -1,0 +1,30 @@
+﻿# Manipulación de datos
+pandas
+numpy
+openpyxl
+
+# Visualización
+matplotlib
+seaborn
+
+# Notebooks
+jupyter
+notebook
+ipykernel
+ipywidgets
+
+# Machine Learning
+scikit-learn
+xgboost
+feature-engine
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Dashboard
+streamlit
+
+# Utilidades
+python-dotenv
