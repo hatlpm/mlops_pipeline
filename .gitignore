@@ -32,3 +32,5 @@ Thumbs.db
 
 # Archivos de base de datos
 *.xlsx
+
+.ipynb_checkpoints/
