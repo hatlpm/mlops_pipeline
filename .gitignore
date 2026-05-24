@@ -29,3 +29,6 @@ Thumbs.db
 # Modelos serializados pesados
 *.pkl
 *.joblib
+
+# Archivos de base de datos
+*.xlsx
