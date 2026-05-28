@@ -28,3 +28,7 @@ streamlit
 
 # Utilidades
 python-dotenv
+
+# 
+feature-engine
+joblib

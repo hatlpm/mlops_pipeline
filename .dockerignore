@@ -1,0 +1,11 @@
+.git
+.venv
+__pycache__
+*.ipynb_checkpoints
+*.xlsx
+X_train_processed.csv
+X_test_processed.csv
+y_train.csv
+y_test.csv
+Base_de_datos.csv
+*.ipynb
