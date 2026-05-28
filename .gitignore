@@ -41,3 +41,7 @@ X_train_processed.csv
 X_test_processed.csv
 y_train.csv
 y_test.csv
+datos_produccion_con_drift.csv
+
+# Scripts temporales de prueba que rompen la arquitectura Jenkins
+simular_drift.py
