@@ -32,3 +32,6 @@ python-dotenv
 # 
 feature-engine
 joblib
+
+# streamlit
+streamlit
