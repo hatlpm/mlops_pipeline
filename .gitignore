@@ -32,3 +32,12 @@ Thumbs.db
 
 # Archivos de base de datos
 *.xlsx
+
+.ipynb_checkpoints/
+
+# Artefactos generados por ft_engineering.py
+ft_pipeline.pkl
+X_train_processed.csv
+X_test_processed.csv
+y_train.csv
+y_test.csv
